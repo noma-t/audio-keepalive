@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>silent-audio</AssemblyName>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>
